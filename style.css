@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif\;
+}
+
+p {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif\;
+}
+table{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+img {
+    position: sticky;
+}
+
+
